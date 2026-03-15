@@ -2,11 +2,11 @@
     "type": "Feature",
     "geometry": {
         "type": "Point",
-        "coordinates": [-62.691, -58.297]
+        "coordinates": [-58.297, -62.691]
     },
     "properties": {
         "name": "Almirante Viel",
-        "datetime_utc": "2026-03-15T23:08:51Z",
+        "datetime_utc": "2026-03-15T23:16:45Z",
         "callsign": "CCAV",
         "speed": 14,
         "heading": 349
